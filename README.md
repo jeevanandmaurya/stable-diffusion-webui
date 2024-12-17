@@ -2,6 +2,8 @@
 A web interface for Stable Diffusion, implemented using Gradio library.
 
 ![](screenshot.png)
+//MY YOUTUBE VIDEO
+https://youtu.be/5xuzGXGeXOs
 
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
